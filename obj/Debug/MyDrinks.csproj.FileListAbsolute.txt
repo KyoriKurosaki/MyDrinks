@@ -1,0 +1,8 @@
+C:\Users\ihas2\source\repos\MyDrinks\MyDrinks\bin\Debug\MyDrinks.exe.config
+C:\Users\ihas2\source\repos\MyDrinks\MyDrinks\bin\Debug\MyDrinks.exe
+C:\Users\ihas2\source\repos\MyDrinks\MyDrinks\bin\Debug\MyDrinks.pdb
+C:\Users\ihas2\source\repos\MyDrinks\MyDrinks\obj\Debug\MyDrinks.csproj.AssemblyReference.cache
+C:\Users\ihas2\source\repos\MyDrinks\MyDrinks\obj\Debug\MyDrinks.csproj.SuggestedBindingRedirects.cache
+C:\Users\ihas2\source\repos\MyDrinks\MyDrinks\obj\Debug\MyDrinks.csproj.CoreCompileInputs.cache
+C:\Users\ihas2\source\repos\MyDrinks\MyDrinks\obj\Debug\MyDrinks.exe
+C:\Users\ihas2\source\repos\MyDrinks\MyDrinks\obj\Debug\MyDrinks.pdb
